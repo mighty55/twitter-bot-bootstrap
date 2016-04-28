@@ -23,7 +23,7 @@ def get_message(handle):
     """
     Your code goes here!
     """
-    message = 'I TWEET THIS.'
+    message = 'I AM A Bot and I TWEET THIS.'
     assert len(message) <= TWEET_LENGTH
     return message
 
